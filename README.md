@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/ed180ed0-f194-4f58-b865-cd919cea27e3
 ZeroEGGS retarget
 =================
 
-This is version of the [Ubisoft La Forge ZeroEGGS Animation Dataset](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) exported in both fbx and bvh format with a different skinned character applied. The data is slightly adjusted - the character has been translated down vertically so that the feet touch the floor on the provided skinned character.
+This is a version of the [Ubisoft La Forge ZeroEGGS Animation Dataset](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) exported in both fbx and bvh format with a different skinned character applied. The data is slightly adjusted - the character has been translated down vertically so that the feet touch the floor on the provided skinned character.
 
 The skinned character mesh is available in `Geno.fbx` and is free for non-commercial research use.
 
@@ -15,6 +15,7 @@ This dataset is compatible with:
 
 * [lafan1-resolved](https://github.com/orangeduck/lafan1-resolved)
 * [motorica-retarget](https://github.com/orangeduck/motorica-retarget)
+* [100style-retarget](https://github.com/orangeduck/100style-retarget)
 
 For an example raylib application that can visualize this data on a skinned character check out the [GenoView](https://github.com/orangeduck/GenoView) repo.
 
